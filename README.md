@@ -14,6 +14,4 @@
     - jd的抓取需要cookie。因此实现了cookie的解析，使用者将jd站点的cookie内容粘到src/main/resources/cookie.txt文件中即可。
     - 前端页面经常变化，因此改了一些html Document节点的解析方式。
 
-![欢迎关注我的公众号，一起玩儿一起学！](https://camo.githubusercontent.com/0cd10b3bef290f2b304e303bc0800b4be5ebfbbc968dbbbc19af8ba8a300065b/68747470733a2f2f696d67323032302e636e626c6f67732e636f6d2f626c6f672f3630393132342f3230323130322f3630393132342d32303231303231373230303635343139352d323134303534393438312e706e67)
-
--
+![欢迎关注我的公众号，一起玩儿一起学！](./gh_xiaoxi666.png)
